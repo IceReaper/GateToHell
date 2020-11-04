@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerTool", "ContainerTool\ContainerTool.csproj", "{C6F0D22A-1E40-473A-BE45-A36C22FD7C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibHellgate", "LibHellgate\LibHellgate.csproj", "{26E2A09D-5CE4-49CE-9232-1C5B7D697B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F0D22A-1E40-473A-BE45-A36C22FD7C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F0D22A-1E40-473A-BE45-A36C22FD7C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F0D22A-1E40-473A-BE45-A36C22FD7C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F0D22A-1E40-473A-BE45-A36C22FD7C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E2A09D-5CE4-49CE-9232-1C5B7D697B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E2A09D-5CE4-49CE-9232-1C5B7D697B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E2A09D-5CE4-49CE-9232-1C5B7D697B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E2A09D-5CE4-49CE-9232-1C5B7D697B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
